@@ -17,8 +17,3 @@ We are constantly investigating clever ways that allow us to utilize the full po
 ## Conclusion
 
 Thank you for considering Prompt-World for your AI prompt needs. We hope that our collection of expertly curated prompts will help you get the most out of your CHAT GPT language model. If you have any questions, please don't hesitate to contact us. Happy prompting!
-
-
-
-
-Regenerate response
