@@ -78,6 +78,9 @@ Prompt-World is a collection of curated prompts that have been carefully crafted
 - [Language Learning & Practice](prompts/Travel%20&%20Exploration/Language%20Learning%20&%20Practice)
 
 
+### [Crazy Prompts](prompts/Crazy%20&%20Prompts)
+
+
 
 ## Contributing to Prompt-World
 
