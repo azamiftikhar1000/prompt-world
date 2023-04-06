@@ -8,6 +8,8 @@ Prompt-World is a collection of curated prompts that have been carefully crafted
 
 ## Prompt
 
+### [Some Crazy Prompts](prompts/Crazy%20&%20Prompts)
+
 ### [Interactive Simulations](prompts/Interactive%20Simulations)
 - [Terminal & Command Line Interfaces](prompts/Interactive%20Simulations/Terminal%20&%20Command%20Line%20Interfaces)
 - [Virtual Assistants & Chatbots](prompts/Interactive%20Simulations/Virtual%20Assistants%20&%20Chatbots)
@@ -78,7 +80,6 @@ Prompt-World is a collection of curated prompts that have been carefully crafted
 - [Language Learning & Practice](prompts/Travel%20&%20Exploration/Language%20Learning%20&%20Practice)
 
 
-### [Crazy Prompts](prompts/Crazy%20&%20Prompts)
 
 
 
