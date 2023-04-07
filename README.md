@@ -6,7 +6,7 @@ Welcome to Prompt-World, the repository for all your AI prompt needs! Here, you 
 
 Prompt-World is a collection of curated prompts that have been carefully crafted to help you get the most out of the CHAT GPT language model. I am compiling the best prompts based on categories, study materials, and guides for developing and optimizing prompts. 
 
-## Prompt
+## Prompt Categories
 
 - [Crazy](prompts/crazy)
 
