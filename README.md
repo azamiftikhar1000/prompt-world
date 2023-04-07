@@ -6,69 +6,230 @@ Welcome to Prompt-World, the repository for all your AI prompt needs! Here, you 
 
 Prompt-World is a collection of curated prompts that have been carefully crafted to help you get the most out of the CHAT GPT language model. I am compiling the best prompts based on categories, study materials, and guides for developing and optimizing prompts. 
 
-## Prompt Categories
 
-- [Crazy](prompts/crazy)
+### [Ads](prompts/Ads)
+- Advertiser
+- Salesperson
 
-- [Ads](prompts/Ads)
+### [Business](prompts/Business)
+- Startup Tech Lawyer
+- Investment Manager
+- Product Manager
+- Recruiter
+- Financial Analyst
+- Real Estate Agent
+- Chief Executive Officer
+- Technology Transferer
 
-- [Business](prompts/Business)
+### [Chatbot](prompts/Chatbot)
+- ChatGPT prompt generator
+- Spongebob's Magic Conch Shell
+- AI Trying to Escape the Box
 
-- [Chatbot](prompts/Chatbot)
+### [Coach](prompts/Coach)
+- Motivational Coach
+- Personal Trainer
+- Mental Health Adviser
+- Hypnotherapist
+- Life Coach
+- Debate Coach
+- Talent Coach
+- Career Counselor
+- Public Speaking Coach
 
-- [Coach](prompts/Coach)
+### [Code](prompts/Code)
+- Python interpreter
+- PHP Interpreter
+- JavaScript Console
+- Linux Terminal
+- R programming Interpreter
+- SQL terminal
 
-- [Code](prompts/Code)
+### [Conversion](prompts/Conversion)
+- Language Detector
+- Smart Domain Name Generator
+- Excel Sheet
+- Emoji Translator
 
-- [Conversion](prompts/Conversion)
+### [Copy](prompts/Copy)
+- Essay Writer
+- Novelist
+- Rapper
+- Screenwriter
+- Tech Writer
+- Proofreader
+- Poet
 
-- [Copy](prompts/Copy)
+### [Email](prompts/Email)
+- Tech Reviewer
+- Cover Letter
 
-- [Email](prompts/Email)
+### [Fashion](prompts/Fashion)
+- Makeup Artist
+- Interior Decorator
+- Florist
+- Personal Stylist
 
-- [Fashion](prompts/Fashion)
+### [Finance](prompts/Finance)
+- Accountant
+- Investment Manager
+- Financial Analyst
 
-- [Finance](prompts/Finance)
+### [Fix](prompts/Fix)
+- DIY Expert
+- IT Expert
+- Software Quality Assurance Tester
+- Automobile Mechanic
 
-- [Fix](prompts/Fix)
+### [Food](prompts/Food)
+- Tea-Taster
+- Chef
+- Food Critic
+- Dietitian
+- Personal Chef
 
-- [Food](prompts/Food)
+### [Fun](prompts/Fun)
+- Gnomist
+- Magician
+- Ascii Artist
+- Web Browser
 
-- [Fun](prompts/Fun)
+### [Funny](prompts/Funny)
+- Stand-up Comedian
+- Drunk Person
+- Lunatic
 
-- [Funny](prompts/Funny)
+### [Generation](prompts/Generation)
+- New Language Creator
+- Commit Message Generator
+- Prompt Generator
+- Diagram Generator
+- Title Generator for written pieces
+- Midjourney Prompt Generator
+- Password Generator
+- Fancy Title Generator
 
-- [Generation](prompts/Generation)
+### [Health](prompts/Health)
+- Yogi
+- Virtual Doctor
+- Speech-Language Pathologist (SLP)
+- Doctor
+- AI Assisted Doctor
+- Psychologist
+- Dentist
 
-- [Health](prompts/Health)
+### [Ideas](prompts/Ideas)
+- Educational Content Creator
+- Startup Idea Generator
+- Socrat
+- Socratic Method
 
-- [Ideas](prompts/Ideas)
+### [Language](prompts/Language)
+- Etymologist
+- English Pronunciation Helper
+- English Translator and Improver
+- Spoken English Teacher and Improver
+- Biblical Translator
 
-- [Language](prompts/Language)
+### [Marketing](prompts/Marketing)
+- Social Media Influencer
+- Developer Relations consultant
+- Digital Art Gallery Guide
 
-- [Marketing](prompts/Marketing)
+### [Music](prompts/Music)
+- Classical Music Composer
+- Song Recommender
+- Composer
 
-- [Music](prompts/Music)
+### [Plan](prompts/Plan)
+- Car Navigation System
+- Logistician
 
-- [Plan](prompts/Plan)
+### [Prompts](prompts/Prompts)
+- Gomoku player
+- Statistician
 
-- [Prompts](prompts/Prompts)
+### [SEO](prompts/SEO)
+- Solr Search Engine
+- IT Architect
 
-- [SEO](prompts/SEO)
+### [Social](prompts/Social)
+- Social Media Manager
+- Friend
+- Elocutionist
 
-- [Social](prompts/Social)
+### [Sport](prompts/Sport)
+- Chess Player
+- Football Commentator
+- Tic-Tac-Toe Game
 
-- [Sport](prompts/Sport)
+### [Study](prompts/Study)
+- Academician
+- Machine Learning Engineer
+- Math Teacher
+- Historian
+- Senior Frontend Developer
+- Fullstack Software Developer
+- Philosophy Teacher
+- Regex Generator
+- Instructor in a School
+- Scientific Data Visualizer
+- Mathematician
+- Philosopher
+- AI Writing Tutor
+- Mathematical History Teacher
 
-- [Study](prompts/Study)
+### [Summarise](prompts/Summarise)
+- Synonym finder
+- Commentariat
 
-- [Summarise](prompts/Summarise)
+### [Translate](prompts/Translate)
+- SVG designer
+- Biblical Translator
 
-- [Translate](prompts/Translate)
+### [Travel](prompts/Travel)
+- Time Travel Guide
+- Travel Guide
 
-- [Travel](prompts/Travel)
+### [Writing](prompts/Writing)
+- Journal Reviewer
+- Journalist
+- UX/UI Developer
+- Web Design Consultant
+- Film Critic
+- Cyber Security Specialist
 
-- [Writing](prompts/Writing)
+### [crazy](prompts/crazy)
+- Text Based Adventure Game
+- StackOverflow Post
+- Buddha
+- Fallacy Finder
+- Chemical reactor
+- Self-Help Book
+- Artist Advisor
+- Gaslighter
+- Character from Movie/Book/Anything
+- Plagiarism Checker
+- Relationship Coach
+- Python Interpreter
+- Movie Critic
+- Storyteller
+- Aphorism Book
+- Motivational Speaker
+- Astrologer
+- Japanese Kanji quiz machine
+- Fill in the Blank Worksheets Generator
+- Pet Behaviorist
+- Babysitter
+- Wikipedia page
+- Personal Shopper
+- Emergency Response Professional
+- Dream Interpreter
+- note-taking assistant
+- Muslim imam
+- `position` Interviewer
+
+
 
 
 
