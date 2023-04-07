@@ -8,7 +8,7 @@ Prompt-World is a collection of curated prompts that have been carefully crafted
 
 ## Prompt
 
-- [crazy](prompts/crazy)
+- [Crazy](prompts/crazy)
 
 - [Ads](prompts/Ads)
 
